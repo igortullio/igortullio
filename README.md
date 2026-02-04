@@ -21,6 +21,8 @@ Currently working on [Schedulizer](https://github.com/igortullio/schedulizer) �
 - [**memory-game**](https://github.com/igortullio/memory-game) — Memory card game (React, Tailwind)
 - [**tic-tac-toe**](https://github.com/igortullio/tic-tac-toe) — Tic-Tac-Toe (React, Tailwind)
 - [**trivia-game**](https://github.com/igortullio/trivia-game) — Trivia quiz (Next.js 15, Tailwind 4)
+- [**nim-game**](https://github.com/igortullio/nim-game) — Nim game with optimal strategy AI (Python)
+- [**text-similarity**](https://github.com/igortullio/text-similarity) — Text similarity detection via linguistic analysis (Python)
 
 ### Libraries & Tools
 - [**ignite-05-challenge**](https://github.com/igortullio/ignite-05-challenge) — React Design System published on [npm](https://www.npmjs.com/package/@igortullio-ui/react) (Stitches, Radix UI, Storybook)
