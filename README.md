@@ -8,7 +8,7 @@ Currently working on [Schedulizer](https://github.com/igortullio/schedulizer) �
 
 ### Web Applications
 - [**schedulizer**](https://github.com/igortullio/schedulizer) — Scheduling SaaS (React, Express, PostgreSQL, Drizzle)
-- [**ignite-06-challenge**](https://github.com/igortullio/ignite-06-challenge) — Google Calendar scheduling app (Next.js, Prisma)
+- [**calendar-booking**](https://github.com/igortullio/calendar-booking) — Google Calendar scheduling app (Next.js, Prisma)
 - [**fun-with-flags**](https://github.com/igortullio/fun-with-flags) — Country explorer using REST Countries API (Next.js)
 
 ### APIs & Services
@@ -25,7 +25,7 @@ Currently working on [Schedulizer](https://github.com/igortullio/schedulizer) �
 - [**text-similarity**](https://github.com/igortullio/text-similarity) — Text similarity detection via linguistic analysis (Python)
 
 ### Libraries & Tools
-- [**ignite-05-challenge**](https://github.com/igortullio/ignite-05-challenge) — React Design System published on [npm](https://www.npmjs.com/package/@igortullio-ui/react) (Stitches, Radix UI, Storybook)
+- [**igortullio-ui**](https://github.com/igortullio/igortullio-ui) — React Design System published on [npm](https://www.npmjs.com/package/@igortullio-ui/react) (Stitches, Radix UI, Storybook)
 - [**cristal-nft-faucet**](https://github.com/igortullio/cristal-nft-faucet) — Web3 NFT faucet frontend (React, Ethers.js)
 - [**cristal-nft**](https://github.com/igortullio/cristal-nft) — NFT avatar generator (Python, Pillow)
 
